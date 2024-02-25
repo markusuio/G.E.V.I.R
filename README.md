@@ -1,8 +1,8 @@
 
 # G.E.V.I.R
 
-# Project Name
-Deductive analysis of PERC Proceedings articles at scale using text embeddings
+# Deductive analysis of PERC Proceedings articles at scale using text embeddings
+
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
