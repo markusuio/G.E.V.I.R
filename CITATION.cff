@@ -13,7 +13,7 @@ authors:
 - family-names: "Odden"
   given-names: "Tor Ole Bigton"
   orcid: "https://orcid.org/0000-0000-0000-0000"
-title: "SciEdAI"
+title: "Deductive analysis of PERC Proceedings articles at scale using text embeddings"
 version: 1.0.0
 doi: 10.5281/zenodo.1234
 date-released: 2024-02-25
