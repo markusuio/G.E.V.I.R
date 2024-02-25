@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Tyseng"
+  given-names: "Halvor"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+- family-names: "Kreutzer"
+  given-names: "Markus Fleten"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+- family-names: "Mjaaland"
+  given-names: "Jonas Timmann"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+- family-names: "Odden"
+  given-names: "Tor Ole Bigton"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+title: "SciEdAI"
+version: 1.0.0
+doi: 10.5281/zenodo.1234
+date-released: 2024-02-25
+url: "https://github.com/markusuio/G.E.V.I.R.git"
+
+
